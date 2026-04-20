@@ -1,0 +1,11 @@
+# Compiled Object files and Executables
+*.exe
+*.o
+*.out
+
+# VS Code Competitive Programming Helper (cph) files
+.cph/
+*.prob
+
+# VS Code directory
+.vscode/
