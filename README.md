@@ -1,40 +1,40 @@
-# \# 🚀 Programming and DSA Journey
+\# 🚀 Programming and DSA Journey
 
-# 
 
-# This repository contains my class practice codes from the Phitron course. 
 
-# 
+This repository contains my class practice codes from the Phitron course. 
 
-# ⚠️ \*\*Note:\*\* This repository exclusively contains \*\*class practice codes only\*\*. No exam or assignment codes will be uploaded here.
 
-# 
 
-# \## 📚 Learning Path
+⚠️ \*\*Note:\*\* This repository exclusively contains \*\*class practice codes only\*\*. No exam or assignment codes will be uploaded here.
 
-# 
 
-# \### 📌 Semester 1: Introduction to C
 
-# \- C Basics, Loops \& Conditions
+\## 📚 Learning Path
 
-# \- Array, String \& Pointers
 
-# \- Functions \& Recursion
 
-# 
+\### 📌 Semester 1: Introduction to C
 
-# \## 🛠️ Tools
+\- C Basics, Loops \& Conditions
 
-# \- \*\*Languages:\*\* C, C++
+\- Array, String \& Pointers
 
-# \- \*\*Editor:\*\* VS Code
+\- Functions \& Recursion
 
-# \- \*\*Practice:\*\* HackerRank, Codeforces
 
-# 
 
-# \## 👤 Author
+\## 🛠️ Tools
 
-# \*\*Syed Monirul Islam\*\*
+\- \*\*Languages:\*\* C, C++
+
+\- \*\*Editor:\*\* VS Code
+
+\- \*\*Practice:\*\* HackerRank, Codeforces
+
+
+
+\## 👤 Author
+
+\*\*Syed Monirul Islam\*\*
 
