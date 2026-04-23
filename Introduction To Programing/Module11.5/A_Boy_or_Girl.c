@@ -11,13 +11,10 @@ int main()
   {
     int val=s[i];
     fre[s[i]-'a']++;
-
   }
- 
    int result=0;
     for(int i=0;i<26;i++)
     {
-    
         if(fre[i]!=0)
         {
           result++;
@@ -31,6 +28,5 @@ int main()
     {
         printf("IGNORE HIM!");
     }
-
   return 0;
 }
