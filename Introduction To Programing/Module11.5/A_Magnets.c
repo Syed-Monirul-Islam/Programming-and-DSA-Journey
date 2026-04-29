@@ -19,6 +19,7 @@ int main() {
         prev = current;
     }
   }
+  
   }
 
  printf("%d\n",groups);
