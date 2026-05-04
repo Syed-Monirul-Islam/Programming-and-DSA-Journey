@@ -8,9 +8,8 @@ void sum()
     printf("%d",ans);
 }
 
-int main() {
-
- 
+int main()
+{
   sum();
   return 0;
 }
