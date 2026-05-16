@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+    scanf("%d", &n);
+    int a[n];
+    scanf("%d", &a[0]);
+    int min_val = a[0];
+
+    for (int i = 1; i < n; i++) {
+        scanf("%d", &a[i]);
+        if (a[i] < min_val) {
+            min_val = a[i];
+        }
+    }
+
+    int count = 0;
+    for (int i = 0; i < n; i++) {
+        if (a[i] == min_val) {
+            count++;
+        }
+    }
+
+    if (count % 2 != 0) {
+        printf("Lucky\n");
+    } else {
+        printf("Unlucky\n");
+    }
+
+    return 0;
+}
